@@ -1,16 +1,23 @@
-# api_update
+# Flutter GetX Rest API Update & Delete Data
 
-A new Flutter project.
+Source Code for Flutter GetX Rest API PUT & DELETE Method.<br>
 
-## Getting Started
+## App Features
+- Fetch user data from API.<br>
+- Update user data.<br>
+- Delete user data.<br>
+<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For Step By Step Guide Follow Video Tutorials:
+- [Updating and Deleting Data from API using GetX in Flutter](http://bit.ly/3jgeVJc)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Links used in project:
+
+- [Getx Package](https://bit.ly/3SobWuW)
+- [Http Package](https://pub.dev/packages/http)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
