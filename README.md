@@ -11,7 +11,7 @@ Source Code for Flutter GetX Rest API PUT & DELETE Method.<br>
 
 
 For Step By Step Guide Follow Video Tutorials:
-- [Updating and Deleting Data from API using GetX in Flutter](http://bit.ly/3jgeVJc)
+- [Updating and Deleting Data from API using GetX in Flutter](https://bit.ly/3jkijCO)
 
 ## Links used in project:
 
